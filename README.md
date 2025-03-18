@@ -11,6 +11,12 @@ My name is Timur and I am a Backed programmer, i can use python and c++ for maki
 ![](https://github-readme-stats.vercel.app/api?username=Timur-liceist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Timur-liceist&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Timur-liceist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Timur-liceist&icon=1&color=0)](https://visitcount.itsvg.in)
